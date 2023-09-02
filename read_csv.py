@@ -14,4 +14,4 @@ def read_csv(path):
 #para ejecutar como script desde la terminal:
 #la siguiente linea verifica si el archivo se está ejecutando directamente o si se está importando como un módulo
 if __name__ == '__main__':
-    read_csv('friends_episodes.csv')
+    read_csv(./'friends_episodes.csv')
